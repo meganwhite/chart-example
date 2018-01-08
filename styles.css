@@ -1,13 +1,12 @@
 #apple-stock-chart {
   font: 10px sans-serif;
-  background-color: white;
+  background-color: lightgray;
 }
 
 body {
   font: 16px sans-serif;
   line-height: 2px;
   letter-spacing: 1px;
-  background-color: blanchedalmond;
 }
 
 .axis path,
